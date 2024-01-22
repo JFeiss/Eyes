@@ -1,2 +1,2 @@
 # Eyes
-<img src="eyes.png" />
+<img src="oneeye.png" />
